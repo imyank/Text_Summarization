@@ -33,4 +33,4 @@ In the code part, we have implemented ROUGE-L
 [![Screenshot-2022-09-12-at-11-47-35-PM.png](https://i.postimg.cc/VLF31dVV/Screenshot-2022-09-12-at-11-47-35-PM.png)](https://postimg.cc/HVVS9sHw)
 
 
-## For detail implementation refer the report section
+## For detail implementation refer the report and code section
